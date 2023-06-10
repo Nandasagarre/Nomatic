@@ -1,4 +1,4 @@
-# Nomatic
+# Made TODO basic app using MERN stack 
 *********Home page URL: http://localhost:3000/alltasks  *******
 
 Used Express, Axios, MongoDb, React js TO create, Read, update, delete tasks
